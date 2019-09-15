@@ -1,0 +1,85 @@
+html{
+    font-size: 20px;
+    font-family: 'Lora', serif;
+}
+
+body {
+    background :white;
+    color: black;
+    margin: 0;
+}
+
+.awesome-header{
+    position: relative;
+    display: flex;
+    width: 100%;
+    border: solid grey 2px;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow:  10px 10px 10px grey;
+}
+
+.awesome-header img {
+    margin-right: 5px;
+}
+
+.left-nav{
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+}
+
+.mid-nav{
+    position: relative; 
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+}
+
+.right-nav{
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+}
+
+.insta-logo{
+    position: relative;
+}
+
+.line{
+    position: relative;
+}
+
+.insta-text{
+    position: relative;
+}
+
+.icon{
+    position: relative;
+}
+
+.heart{
+    position: relative;
+}
+
+.human{
+    position: relative;
+}
+
+.search{
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #e4e2e2;
+    background: #faf8f8;
+    border-radius: 3px;
+}
+
+.awesome-header img {
+    margin-right: 5px;
+    height: 20px;
+}
